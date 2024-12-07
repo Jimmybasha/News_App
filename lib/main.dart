@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
           },
           initialRoute: SplashScreen.routeName,
         );
-      },
+      });
 
 
   }
